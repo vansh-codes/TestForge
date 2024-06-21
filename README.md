@@ -8,11 +8,12 @@
 <br>
 
 ### Table of Contents
-1. [Overview](https://github.com/vansh-codes/TestForge/blob/main/README.md#overview)
-2. [Features](https://github.com/vansh-codes/TestForge/blob/main/README.md#features)
-3. [Benefits](https://github.com/vansh-codes/TestForge/blob/main/README.md#benefits)
-4. [Installation and Usage](https://github.com/vansh-codes/TestForge/blob/main/README.md#installation--usage)
-5. [Licence](https://github.com/vansh-codes/TestForge/blob/main/README.md#license)
+1. [Overview](https://github.com/vansh-codes/TestForge?tab=readme-ov-file#overview)
+2. [Features](https://github.com/vansh-codes/TestForge?tab=readme-ov-file#features)
+3. [Benefits](https://github.com/vansh-codes/TestForge?tab=readme-ov-file#benefits)
+4. [Installation and Usage](https://github.com/vansh-codes/TestForge?tab=readme-ov-file#installation--usage)
+5. [License](https://github.com/vansh-codes/TestForge?tab=readme-ov-file#license)
+6. [Social Links](https://github.com/vansh-codes/TestForge?tab=readme-ov-file#-links)
 
 <br>
 
