@@ -1,6 +1,10 @@
 # TestForge: Automated Test Case Generator
 #### - By the programmer for the programmers! 👨‍💻
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Vercel](https://vercelbadge.vercel.app/api/vansh-codes/TestForge?style=plastic)
 
 <p align="center"><img src="https://socialify.git.ci/vansh-codes/TestForge/image?font=Source%20Code%20Pro&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;theme=Auto" alt="project-image"></p>
