@@ -4,11 +4,11 @@
 <br><br>
 
 ### Table of Contents
-1. [Overview](https://github.com/vansh-codes/TestForge/README.md#overview)
-2. [Features](https://github.com/vansh-codes/TestForge/README.md#features)
-3. [Benefits](https://github.com/vansh-codes/TestForge/README.md#benefits)
-4. [Installation and Usage](https://github.com/vansh-codes/TestForge/README.md#installation--usage)
-5. [Licence](https://github.com/vansh-codes/TestForge/README.md#licence)
+1. [Overview](https://github.com/vansh-codes/TestForge/blob/main/README.md#overview)
+2. [Features](https://github.com/vansh-codes/TestForge/blob/main/README.md#features)
+3. [Benefits](https://github.com/vansh-codes/TestForge/blob/main/README.md#benefits)
+4. [Installation and Usage](https://github.com/vansh-codes/TestForge/blob/main/README.md#installation--usage)
+5. [Licence](https://github.com/vansh-codes/TestForge/blob/main/README.md#license)
 
 <br>
 
