@@ -1,6 +1,8 @@
 # TestForge: Automated Test Case Generator
 #### - By the programmer for the programmers! 👨‍💻
 
+![Vercel](https://vercelbadge.vercel.app/api/vansh-codes/TestForge?style=plastic)
+
 <p align="center"><img src="https://socialify.git.ci/vansh-codes/TestForge/image?font=Source%20Code%20Pro&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;theme=Auto" alt="project-image"></p>
 
 <br>
