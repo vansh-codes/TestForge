@@ -1,23 +1,27 @@
 # TestForge: Automated Test Case Generator
 #### - By the programmer for the programmers! 👨‍💻
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Vercel](https://vercelbadge.vercel.app/api/vansh-codes/TestForge?style=plastic)
-
 <p align="center"><img src="https://socialify.git.ci/vansh-codes/TestForge/image?font=Source%20Code%20Pro&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;theme=Auto" alt="project-image"></p>
+
+<div align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" height=40px/> 
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvansh-codes%2FTestForge&label=visitors&countColor=%2337d67a&style=for-the-badge&labelStyle=upper" height=40px /> 
+<img src="https://img.shields.io/github/last-commit/vansh-codes/TestForge?style=for-the-badge" height=40px /> <br />
+<img src="https://img.shields.io/github/repo-size/vansh-codes/TestForge?style=for-the-badge" height=40px> 
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height=30px /> <img src="https://vercelbadge.vercel.app/api/vansh-codes/TestForge?style=for-the-badge" height=30px />
+
+</div>
 
 <br>
 
 ### Table of Contents
-1. [Overview](https://github.com/vansh-codes/TestForge?tab=readme-ov-file#overview)
-2. [Features](https://github.com/vansh-codes/TestForge?tab=readme-ov-file#features)
-3. [Benefits](https://github.com/vansh-codes/TestForge?tab=readme-ov-file#benefits)
-4. [Installation and Usage](https://github.com/vansh-codes/TestForge?tab=readme-ov-file#installation--usage)
-5. [License](https://github.com/vansh-codes/TestForge?tab=readme-ov-file#license)
-6. [Social Links](https://github.com/vansh-codes/TestForge?tab=readme-ov-file#-links)
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Tech Stack](#Tech-Stack)
+4. [Benefits](#benefits)
+5. [Installation and Usage](#installation--usage)
+6. [License](#license)
+7. [Social Links](#-links)
 
 <br>
 
@@ -30,6 +34,12 @@ Welcome to **TestForge**, your go-to tool for generating comprehensive test case
 - **Browser Extension & Web App**: Use TestForge directly in your browser or through our intuitive web interface.
 - **Customizable Settings**: Tailor the test case generation process to meet the specific needs of your projects.
 - **User-Friendly Interface**: Simple, clean, and easy to use, so you can focus on coding.
+
+## 💻Technology Stack
+
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS5](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Benefits
 - **Save Time**: No more manually creating test cases—let TestForge handle it for you.
@@ -64,7 +74,8 @@ This project is licensed under the MIT License - see the ([LICENSE](https://gith
 ### **TestForge** - Forge the perfect tests for your code!
 
 ### - Created by **Vansh Chaurasiya** 
+Show some ❤️ by starring this repository !
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshchaurasiya24)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/vanshchaurasiy4)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/vanshchaurasiy4)   <p align="right"><a href="#top">TOP</a></p>
