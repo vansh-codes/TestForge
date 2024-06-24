@@ -17,7 +17,7 @@
 ### Table of Contents
 1. [Overview](#overview)
 2. [Features](#features)
-3. [Tech Stack](#Tech-Stack)
+3. [Tech Stack](#Technology-Stack)
 4. [Benefits](#benefits)
 5. [Installation and Usage](#installation--usage)
 6. [License](#license)
